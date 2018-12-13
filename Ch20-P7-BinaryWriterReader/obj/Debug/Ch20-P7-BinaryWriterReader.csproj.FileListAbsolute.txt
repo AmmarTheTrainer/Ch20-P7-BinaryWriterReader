@@ -1,0 +1,7 @@
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P7-BinaryWriterReader\Ch20-P7-BinaryWriterReader\bin\Debug\Ch20-P7-BinaryWriterReader.exe.config
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P7-BinaryWriterReader\Ch20-P7-BinaryWriterReader\bin\Debug\Ch20-P7-BinaryWriterReader.exe
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P7-BinaryWriterReader\Ch20-P7-BinaryWriterReader\bin\Debug\Ch20-P7-BinaryWriterReader.pdb
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P7-BinaryWriterReader\Ch20-P7-BinaryWriterReader\obj\Debug\Ch20-P7-BinaryWriterReader.csprojAssemblyReference.cache
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P7-BinaryWriterReader\Ch20-P7-BinaryWriterReader\obj\Debug\Ch20-P7-BinaryWriterReader.csproj.CoreCompileInputs.cache
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P7-BinaryWriterReader\Ch20-P7-BinaryWriterReader\obj\Debug\Ch20-P7-BinaryWriterReader.exe
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P7-BinaryWriterReader\Ch20-P7-BinaryWriterReader\obj\Debug\Ch20-P7-BinaryWriterReader.pdb
